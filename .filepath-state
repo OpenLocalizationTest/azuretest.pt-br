@@ -10704,6 +10704,9 @@
   "5ed2ff1488eefe2c438658819299c89bb85ca42e": [
     "articles\\app-service-api\\app-service-api-apps-why-best-platform.md"
   ],
+  "e6b9aa893e6230542d1f6eb1f76c39e74face508": [
+    "articles\\app-service-api\\app-service-api-arm-existing-gateway-provision.md"
+  ],
   "4383c4c230b2ceb14d4500831306154f78a42b8a": [
     "articles\\app-service-api\\app-service-api-arm-existing-gateway-provision.md"
   ],
@@ -10721,6 +10724,9 @@
   ],
   "2ecc0f609e99857f3ff1c7303281aa083cbb59cd": [
     "articles\\app-service-api\\app-service-api-dotnet-add-authentication.md"
+  ],
+  "c5a71157a6f9f2caa78dea18e1b7de7ef08f65b9": [
+    "articles\\app-service-api\\app-service-api-dotnet-connect-to-saas.md"
   ],
   "48da03b567d1639d590aa3eab9b1f1267abddd83": [
     "articles\\app-service-api\\app-service-api-dotnet-connect-to-saas.md"
