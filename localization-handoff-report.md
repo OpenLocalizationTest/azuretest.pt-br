@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\php-download-sdk.md](https://github.com/OpenLocalizationTest/azuretest/blob/22e02613e525c7154f9c3d03f38753faff74244c/articles/php-download-sdk.md) | HandedOffSuccess | [Details](#313fdad03c4e85b0d418559cee58c1c4d102761813453)
+ [includes\app-service-api-create-dropbox-app.md](https://github.com/OpenLocalizationTest/azuretest/blob/e383a23574712d429a64ba67851afc061d8e082a/includes/app-service-api-create-dropbox-app.md) | HandedOffSuccess | [Details](#8c32edde8cdcdd5e6f581bc5549b5181f908090716651)
 
 ## Item Details
-##### <a name='313fdad03c4e85b0d418559cee58c1c4d102761813453'></a> Source: [articles\php-download-sdk.md](https://github.com/OpenLocalizationTest/azuretest/blob/22e02613e525c7154f9c3d03f38753faff74244c/articles/php-download-sdk.md)
+##### <a name='8c32edde8cdcdd5e6f581bc5549b5181f908090716651'></a> Source: [includes\app-service-api-create-dropbox-app.md](https://github.com/OpenLocalizationTest/azuretest/blob/e383a23574712d429a64ba67851afc061d8e082a/includes/app-service-api-create-dropbox-app.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [php-download-sdk.cbbb9f7984a7b02a9f45405747f1ad5b0a8437b7.pt-br.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/8209c7e92fc5b49a78811662865d97ee30bfeef3/ol-handoff/OpenLocalizationTest/azuretest.pt-br/master/ht/php-download-sdk.cbbb9f7984a7b02a9f45405747f1ad5b0a8437b7.pt-br.xlf)
-* Handoff Datetime: 2016-03-12 09:02:51
+* Handoff File: [app-service-api-create-dropbox-app.ba2a3f351ee8b109ea57ff87597f4f3da487651b.pt-br.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/e2d07232e37d24577747cafe76b0e48323f38ea9/ol-handoff/OpenLocalizationTest/azuretest.pt-br/master/ht/app-service-api-create-dropbox-app.ba2a3f351ee8b109ea57ff87597f4f3da487651b.pt-br.xlf)
+* Handoff Datetime: 2016-03-14 02:33:51
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
