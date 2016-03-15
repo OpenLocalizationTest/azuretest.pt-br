@@ -12721,6 +12721,9 @@
   "4b542828e88f8a2cf8144538c3f7647f8dcd5a6d": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-hybrid-connections-get-started-preview.md"
   ],
+  "89b9d263d13b9935473aec2f0def6c809ea30339": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md"
+  ],
   "7a7ff1d62b70a4a0d0bb4e0babf905b542c385f3": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md"
   ],
@@ -12732,6 +12735,9 @@
   ],
   "bb87880bc1283f9293a7287ed025feb68928496f": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-get-started-users-preview.md"
+  ],
+  "f56ffd93909f6bf59eec0a9de60a6d8113cb817f": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md"
   ],
   "9952b255cf2b5810022cf4a3baf85d9fc323d22e": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md"
