@@ -15651,6 +15651,9 @@
   "045f25bb9e4de6bf66645ea38bc4b53c625d3665": [
     "articles\\app-service-web\\websites-webjobs-resources.md"
   ],
+  "b42ed47cbd1add513f33dbc598074d630d49a2ba": [
+    "articles\\architecture-overview.md"
+  ],
   "4b3345107ae5a64aa118ba8e2bc7e0b2a156def1": [
     "articles\\architecture-overview.md"
   ],
@@ -39253,7 +39256,8 @@
     "includes\\mobile-services-aad-rbac-test-app.md"
   ],
   "c5dc861fddc5357d5a08f3a179a2560ba153c267": [
-    "includes\\mobile-services-add-Google-play-services.md"
+    "includes\\mobile-services-add-Google-play-services.md",
+    "includes\\mobile-services-add-google-play-services.md"
   ],
   "6d5d091c764a2776e46e613df2bccaa95add4b3e": [
     "includes\\mobile-services-add-Google-play-services-EC.md"
@@ -39442,7 +39446,8 @@
     "includes\\mobile-services-download-service-locally.md"
   ],
   "57d891b3683b7a48a894ae93a26440c3f750c72c": [
-    "includes\\mobile-services-enable-Google-cloud-messaging.md"
+    "includes\\mobile-services-enable-Google-cloud-messaging.md",
+    "includes\\mobile-services-enable-google-cloud-messaging.md"
   ],
   "16cea260b8a34d85f08ff471605142903289008c": [
     "includes\\mobile-services-enable-source-control.md"
@@ -40060,10 +40065,12 @@
     "includes\\virtual-machines-choose-me-content.md"
   ],
   "1861bdbd70b3d39bfae11d662a2af27a01868e1b": [
-    "includes\\virtual-machines-create-LinuxVM.md"
+    "includes\\virtual-machines-create-LinuxVM.md",
+    "includes\\virtual-machines-create-linuxvm.md"
   ],
   "caf9026138c5e57c5e61bbdc908ae536e495dc17": [
-    "includes\\virtual-machines-create-WindowsVM.md"
+    "includes\\virtual-machines-create-WindowsVM.md",
+    "includes\\virtual-machines-create-windowsvm.md"
   ],
   "172d6b7369a2fc41bde0deb888312ae78fee3b9f": [
     "includes\\virtual-machines-Linux-tutorial-log-on-attach-disk.md"
